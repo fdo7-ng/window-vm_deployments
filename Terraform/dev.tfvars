@@ -1,0 +1,7 @@
+  resource_group_name = "RG-TFE-Development"
+  net_resource_group_name = "RG-TFE-Networking"
+  virtual_network_name  = "winVNET"
+  subnet_name         = "default"
+  location            = "eastus"
+  vm_name             = "winvm01"
+  admin_username        = "adminuser"
